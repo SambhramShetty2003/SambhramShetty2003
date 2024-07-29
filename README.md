@@ -4,11 +4,28 @@ I'm Sambhram, an enthusiastic Engineering student at **Atharva College of Engine
 
 ## 🔧 Skills & Technologies
 
-- **Programming Languages:** Python, C++, C, R
-- **Database Management:** MySQL
-- **Web Technologies:** SQL
-- **Machine Learning & AI:** TensorFlow, Keras, Scikit-learn
-- **Tools:** Git, Docker, Jupyter Notebooks
+- **Programming Languages:**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=ffffff)
+  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=ffffff)
+
+- **Database Management:**
+  ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql&logoColor=ffffff)
+
+- **Web Technologies:**
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=ffffff)
+
+- **Machine Learning & AI:**
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=ffffff)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=ffffff)
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=ffffff)
+
+- **Tools:**
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=ffffff)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)
+
 
 ## 🚀 Major Project: Agro Rover
 
@@ -27,15 +44,8 @@ I'm Sambhram, an enthusiastic Engineering student at **Atharva College of Engine
   - MySQL for data storage
   - SQL for querying and managing data
 
-- **Setup Instructions:**
-  ```bash
-  git clone https://github.com/SambhramShetty2003/agro-rover.git
-  cd agro-rover
-  pip install -r requirements.txt
 
-  # 🌟 Current AIML Projects
-
-## 1. Project Name 1
+## 1. Student Performace Anlaysis using Machine Learning 
 
 **Description:** A brief overview of the project.
 
@@ -45,19 +55,6 @@ I'm Sambhram, an enthusiastic Engineering student at **Atharva College of Engine
 ![Project Name 1](https://example.com/project1.gif)
 
 **Repository:** [View Repository](https://github.com/[YourUsername]/project-name-1)
-
----
-
-## 2. Project Name 2
-
-**Description:** A brief overview of the project.
-
-**Technologies Used:** Python, Keras
-
-**Screenshots/GIFs:**
-![Project Name 2](https://example.com/project2.gif)
-
-**Repository:** [View Repository](https://github.com/[YourUsername]/project-name-2)
 
 ---
 
