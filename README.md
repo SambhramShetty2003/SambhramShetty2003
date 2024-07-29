@@ -54,7 +54,7 @@ I'm Sambhram, an enthusiastic Engineering student at **Atharva College of Engine
 **Screenshots/GIFs:**
 ![Project Name 1](https://example.com/project1.gif)
 
-**Repository:** [View Repository](https://github.com/[YourUsername]/project-name-1)
+**Repository:** [View Repository](https://github.com/SambhramShetty2003/MachineLearing2024)
 
 ---
 
