@@ -32,3 +32,54 @@ I'm Sambhram, an enthusiastic Engineering student at **Atharva College of Engine
   git clone https://github.com/SambhramShetty2003/agro-rover.git
   cd agro-rover
   pip install -r requirements.txt
+
+  # 🌟 Current AIML Projects
+
+## 1. Project Name 1
+
+**Description:** A brief overview of the project.
+
+**Technologies Used:** Python, TensorFlow, Scikit-learn
+
+**Screenshots/GIFs:**
+![Project Name 1](https://example.com/project1.gif)
+
+**Repository:** [View Repository](https://github.com/[YourUsername]/project-name-1)
+
+---
+
+## 2. Project Name 2
+
+**Description:** A brief overview of the project.
+
+**Technologies Used:** Python, Keras
+
+**Screenshots/GIFs:**
+![Project Name 2](https://example.com/project2.gif)
+
+**Repository:** [View Repository](https://github.com/[YourUsername]/project-name-2)
+
+---
+
+# 📈 Learning & Growth
+
+I’m constantly learning and exploring new technologies. Currently, I’m focusing on:
+
+- Advanced AIML techniques
+- Enhancing data analytics skills
+
+---
+
+# 🌐 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/sambhram-shetty-6a323b279)
+- [X](https://twitter.com/yourhandle)
+- [Email](sambhramshetty14@gmail.com)
+
+---
+
+# 🤝 Collaborations & Opportunities
+
+I’m open to collaborating on innovative projects and internships where I can apply my skills and learn from others. Feel free to reach out!
+
+  
