@@ -45,7 +45,7 @@ I'm Sambhram, an enthusiastic Engineering student at **Atharva College of Engine
   - SQL for querying and managing data
   - 
 **Screenshots/GIFs:**
-![Project Name 1](https://drive.google.com/file/d/1SQ5f2nKd3E30_LpiVMtd_l460T3KPF4s/view?usp=sharing)
+![Project Name 1](IMG-20250421-WA0097.jpg)
 
 **Repository:** [View Repository](https://github.com/SambhramShetty2003/Agro_rover)
 
