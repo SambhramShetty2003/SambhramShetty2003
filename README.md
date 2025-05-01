@@ -44,8 +44,12 @@ I'm Sambhram, an enthusiastic Engineering student at **Atharva College of Engine
   - MySQL for data storage
   - SQL for querying and managing data
   - 
-**Screenshots/GIFs:**
-![Project Name 1](IMG-20250421-WA0097.jpg)
+## Screenshots/GIFs:
+
+<img src="IMG-20250421-WA0097.jpg" alt="Agro Rover Side View" width="400"/>
+<br>
+<img src="WhatsApp Image 2025-04-21 at 23.04.06_9b7757aa.jpg" alt="Agro Rover Front View" width="400"/>
+
 
 **Repository:** [View Repository](https://github.com/SambhramShetty2003/Agro_rover)
 
